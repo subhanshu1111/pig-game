@@ -76,7 +76,9 @@ main {
 .player--active .current {
   opacity: 1;
 }
-
+.hidden {
+  display: none;
+}
 .current {
   background-color: #c7365f;
   opacity: 0.8;
